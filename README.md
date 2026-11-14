@@ -11,7 +11,7 @@ This repo contains answers to chapterise sections Start Date: 14 November End Da
 45-day study and hands-on firmware roadmap pairing Elecia White's *Making Embedded Systems* with modular C builds on Wokwi.
 
 ## 45-Day Progress Tracker (Nov 14 – Dec 28, 2026)
-
+ 
 | Status | Dates | Days | Chapter(s) | Milestone & Wokwi Build |
 | :---: | :--- | :---: | :---: | :--- |
 | [ ] | **Nov 14 – Nov 15** *(Sat–Sun)* | 2 | **Ch. 1 & 2** | Read Ch. 1–2 + build **Modular HAL Logger** |
